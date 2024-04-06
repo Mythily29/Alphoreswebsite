@@ -1,0 +1,49 @@
+.formbox{
+	border: solid 1px;
+	width: 500px;
+	padding-left: 26px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: black;
+	margin-left: 380px;
+	padding-bottom: 20px;
+	border-radius: 45px 45px 45px 45px ;
+}
+label{
+	font-size: 20px;
+	color: white;
+}
+input{
+	background-color: black;
+	border: none;
+	outline: none;
+	color: red;
+	font-size: 15px;
+	border-bottom: solid;
+	border-width: 3px;
+	border-color: white;
+}
+#textbox{
+	width: 280px;
+}
+button{
+	height: 30px;
+	width: 100px;
+	background-color: red;
+	border-radius:50px;
+	color: white;
+	font-size: 18px;
+}
+body{
+	background-image: linear-gradient(pink,white)
+}
+h1{
+	font-size: 60px;
+	text-shadow: 2px 2px 2px black;
+	text-align:center;       
+}
+img{
+	position: relative;
+	left:600px;
+	border-radius: 50px;
+}

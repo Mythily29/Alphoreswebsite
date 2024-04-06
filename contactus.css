@@ -1,0 +1,21 @@
+form{
+	border: solid;
+	width: 800px;
+	margin: left:190px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	background-color: #d9fcee;
+}
+h1{
+	font-size: 40px;
+	color: blue;
+}
+p{
+	font-size: 20px;
+}
+label{
+	font-size: 18px;
+	font-weight: bold;
+}
+inp
